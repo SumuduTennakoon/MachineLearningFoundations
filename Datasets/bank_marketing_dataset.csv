@@ -1,4 +1,4 @@
-age,job_type,marital_status,education,has_credit_in_default,average_yearly_balance,has_housing_loan,has_personal_loan,contact_type,last_contact_day,last_contact_month,last_contact_duration,number_of_contacts,days_since_previous_campain_contact,previous_capaign_contacts,previous_capaign_outcome,is_subscribed
+age,job_type,marital_status,education,has_credit_in_default,average_yearly_balance,has_housing_loan,has_personal_loan,contact_type,last_contact_day,last_contact_month,last_contact_duration,number_of_contacts,days_since_previous_campaign_contact,previous_campaign_contacts,previous_campaign_outcome,is_subscribed
 58,management,married,tertiary,no,2143,yes,no,unknown,5,may,261,1,-1,0,unknown,no
 44,technician,single,secondary,no,29,yes,no,unknown,5,may,151,1,-1,0,unknown,no
 33,entrepreneur,married,secondary,no,2,yes,yes,unknown,5,may,76,1,-1,0,unknown,no
