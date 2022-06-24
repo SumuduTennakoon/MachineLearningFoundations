@@ -7,3 +7,4 @@ This course aims to provide a comprehensive understanding of the core principles
 - LinkedIn : https://www.linkedin.com/in/sptennakoon
 - Twitter : https://twitter.com/sptennakoon
 - Medium: https://sumudutennakoon.medium.com/membership
+- YouTube: https://www.youtube.com/channel/UC1YPSsjZIpFhZGTk83Nrd3A
