@@ -38,7 +38,7 @@ Sumudu Tennakoon is a Data Scientist with five years of experience working in th
 
 <hr/>
 
-# Cite as:
+## Cite as:
 SumuduTennakoon, & Sumudu Tennakoon. (2022). SumuduTennakoon/MachineLearningFoundations: v1.0.0 (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.7329328
 
 
