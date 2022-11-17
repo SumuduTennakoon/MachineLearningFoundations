@@ -39,7 +39,7 @@ Sumudu Tennakoon is a Data Scientist with five years of experience working in th
 <hr/>
 
 ## Cite as:
-SumuduTennakoon (2022). MachineLearningFoundations: v1.0.0 (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.7329328
+SumuduTennakoon. (2022). Machine Learning Foundations Course. Zenodo. https://doi.org/10.5281/zenodo.7329328
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
