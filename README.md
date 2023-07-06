@@ -23,7 +23,7 @@ This course aims to provide a fundamental understanding of the core principles o
 10. Capstone Project
 
 ## Prerequisites: 
-- Basics understanding on in computer programming.
+- Basics understanding in computer programming.
 - Foundational Knowledge in mathematics and statistics (G.C.E. O/L, High School Math).
 - Working knowledge in computer applications: spreadsheet, word processor and presentation authoring.
 
